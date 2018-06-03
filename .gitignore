@@ -1,0 +1,7 @@
+node_modules/
+out/*
+!out/.keep
+in/*
+!in/.keep
+out.jpg
+out.png
